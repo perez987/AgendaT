@@ -1,0 +1,35 @@
+/* Spanish Localization */
+
+/* Main title */
+"phone_numbers" = "Números de teléfono";
+
+/* Search and filter controls */
+"search_by_name" = "Buscar por nombre";
+"show_button" = "Buscar";
+"clear_filters_button" = "Mostrar todos";
+"add_contact" = "Añadir contacto";
+
+/* Record counter */
+"records_shown" = "Contactos mostrados: %d";
+
+/* Grid headers */
+"header_name" = "Nombre";
+"header_phone1" = "Teléfono 1";
+"header_phone2" = "Teléfono 2";
+"header_id" = "ID";
+
+/* Delete confirmation */
+"delete_confirmation_title" = "Eliminar contacto";
+"delete_confirmation_message" = "¿Está seguro de que desea eliminar '%@'?";
+"delete" = "Eliminar";
+"cancel" = "Cancelar";
+
+/* Edit Contact View */
+"add_contact_title" = "Añadir nuevo contacto";
+"edit_contact_title" = "Editar contacto";
+"name_label" = "Nombre:";
+"phone1_label" = "Teléfono 1:";
+"phone2_label" = "Teléfono 2:";
+"id_label" = "ID:";
+"add" = "Añadir";
+"save" = "Guardar";

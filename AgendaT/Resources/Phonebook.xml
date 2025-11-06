@@ -1,0 +1,3057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Phonebook>
+        <Contact>
+            <Name>ABB Corporation</Name>
+            <Phone1>955782362</Phone1>
+            <Phone2>536996521</Phone2>
+            <ID>500</ID>
+        </Contact>
+        <Contact>
+            <Name>Abstract CORP.</Name>
+            <Phone1>932665214</Phone1>
+            <Phone2>133695874</Phone2>
+            <ID>502</ID>
+        </Contact>
+        <Contact>
+            <Name>ACE Hardware CO</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>2</ID>
+        </Contact>
+        <Contact>
+            <Name>Actium INC.</Name>
+            <Phone1>922145859</Phone1>
+            <Phone2>412556362</Phone2>
+            <ID>501</ID>
+        </Contact>
+        <Contact>
+            <Name>ADI Systems Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>3</ID>
+        </Contact>
+        <Contact>
+            <Name>Administaff Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>4</ID>
+        </Contact>
+        <Contact>
+            <Name>ADVO Inc.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>5</ID>
+        </Contact>
+        <Contact>
+            <Name>AEK Goup Inc.</Name>
+            <Phone1>966521455</Phone1>
+            <Phone2>633256985</Phone2>
+            <ID>1</ID>
+        </Contact>
+        <Contact>
+            <Name>Aeroquip - Vickers Inc.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>6</ID>
+        </Contact>
+        <Contact>
+            <Name>Agway Inc.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>8</ID>
+        </Contact>
+        <Contact>
+            <Name>Air Products and Chemicals Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>9</ID>
+        </Contact>
+        <Contact>
+            <Name>Airborne Freight Corp.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>10</ID>
+        </Contact>
+        <Contact>
+            <Name>Airgas Inc.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>11</ID>
+        </Contact>
+        <Contact>
+            <Name>AirTouch Communications Inc.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>12</ID>
+        </Contact>
+        <Contact>
+            <Name>Alaska Air Group Inc.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>13</ID>
+        </Contact>
+        <Contact>
+            <Name>Albertson&apos;s Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>14</ID>
+        </Contact>
+        <Contact>
+            <Name>Allegiance Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>15</ID>
+        </Contact>
+        <Contact>
+            <Name>Alliant Foodservice Inc.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>16</ID>
+        </Contact>
+        <Contact>
+            <Name>AlliedSignal Inc.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>17</ID>
+        </Contact>
+        <Contact>
+            <Name>Allmann Brothers</Name>
+            <Phone1>926358214</Phone1>
+            <Phone2>423659857</Phone2>
+            <ID>503</ID>
+        </Contact>
+        <Contact>
+            <Name>American Family Mutual Ins. Co. Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>18</ID>
+        </Contact>
+        <Contact>
+            <Name>American Greetings Corp.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>19</ID>
+        </Contact>
+        <Contact>
+            <Name>American Home Products Corp.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>20</ID>
+        </Contact>
+        <Contact>
+            <Name>American International Group Inc.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>21</ID>
+        </Contact>
+        <Contact>
+            <Name>American Standard Cos. Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>22</ID>
+        </Contact>
+        <Contact>
+            <Name>AmeriGas Partners LP</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>23</ID>
+        </Contact>
+        <Contact>
+            <Name>Amgen Inc.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>24</ID>
+        </Contact>
+        <Contact>
+            <Name>Amkor Technology Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>25</ID>
+        </Contact>
+        <Contact>
+            <Name>Amoco Corp.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>26</ID>
+        </Contact>
+        <Contact>
+            <Name>AMP Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>27</ID>
+        </Contact>
+        <Contact>
+            <Name>AMR Corp.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>28</ID>
+        </Contact>
+        <Contact>
+            <Name>Amway Corp.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>29</ID>
+        </Contact>
+        <Contact>
+            <Name>Analog Devices Inc.</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>30</ID>
+        </Contact>
+        <Contact>
+            <Name>Anixter International Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>31</ID>
+        </Contact>
+        <Contact>
+            <Name>Anton Mann</Name>
+            <Phone1>926658957</Phone1>
+            <Phone2>521254698</Phone2>
+            <ID>505</ID>
+        </Contact>
+        <Contact>
+            <Name>Aon Corp.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>32</ID>
+        </Contact>
+        <Contact>
+            <Name>Apria Healthcare Group Inc.</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>33</ID>
+        </Contact>
+        <Contact>
+            <Name>Aramark Corp.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>34</ID>
+        </Contact>
+        <Contact>
+            <Name>ARCO Chemical Co.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>35</ID>
+        </Contact>
+        <Contact>
+            <Name>Armstrong World Industries Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>36</ID>
+        </Contact>
+        <Contact>
+            <Name>Ascend Communications Inc.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>37</ID>
+        </Contact>
+        <Contact>
+            <Name>Ashland Inc.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>38</ID>
+        </Contact>
+        <Contact>
+            <Name>ATT</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>39</ID>
+        </Contact>
+        <Contact>
+            <Name>Automatic Data Processing Inc.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>40</ID>
+        </Contact>
+        <Contact>
+            <Name>Avery Dennison Corp.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>41</ID>
+        </Contact>
+        <Contact>
+            <Name>Avnet Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>42</ID>
+        </Contact>
+        <Contact>
+            <Name>Avondale Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>43</ID>
+        </Contact>
+        <Contact>
+            <Name>AVX Corp.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>698521482</Phone2>
+            <ID>44</ID>
+        </Contact>
+        <Contact>
+            <Name>Baltimore Gas and Electric Co.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>45</ID>
+        </Contact>
+        <Contact>
+            <Name>BankBoston Corp.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>46</ID>
+        </Contact>
+        <Contact>
+            <Name>Banta Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>47</ID>
+        </Contact>
+        <Contact>
+            <Name>Bausch and Lomb Inc.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>48</ID>
+        </Contact>
+        <Contact>
+            <Name>Baxter International Inc.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>49</ID>
+        </Contact>
+        <Contact>
+            <Name>Bay Networks Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>50</ID>
+        </Contact>
+        <Contact>
+            <Name>BDO Seidman LLP</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>51</ID>
+        </Contact>
+        <Contact>
+            <Name>Bechtel Group Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>52</ID>
+        </Contact>
+        <Contact>
+            <Name>Becton Dickinson and Co.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>53</ID>
+        </Contact>
+        <Contact>
+            <Name>Belk Stores Services Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>54</ID>
+        </Contact>
+        <Contact>
+            <Name>Bemis Co. Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>55</ID>
+        </Contact>
+        <Contact>
+            <Name>Bergen Brunswig Corp.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>56</ID>
+        </Contact>
+        <Contact>
+            <Name>Bethlehem Steel Corp.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>57</ID>
+        </Contact>
+        <Contact>
+            <Name>Black and Decker Corp.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>58</ID>
+        </Contact>
+        <Contact>
+            <Name>Black and Veatch</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>59</ID>
+        </Contact>
+        <Contact>
+            <Name>Boise Cascade Office Products Corp.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>60</ID>
+        </Contact>
+        <Contact>
+            <Name>Booz Allen and Hamilton Inc.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>61</ID>
+        </Contact>
+        <Contact>
+            <Name>Briggs and Stratton Corp.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>62</ID>
+        </Contact>
+        <Contact>
+            <Name>Brightpoint Inc.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>63</ID>
+        </Contact>
+        <Contact>
+            <Name>Brinker International Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>64</ID>
+        </Contact>
+        <Contact>
+            <Name>Browning-Ferris Industries Inc.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>65</ID>
+        </Contact>
+        <Contact>
+            <Name>BT Office Products International Inc.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>66</ID>
+        </Contact>
+        <Contact>
+            <Name>Burlington Coat Factory Warehouse Corp.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>67</ID>
+        </Contact>
+        <Contact>
+            <Name>Burlington Industries Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>68</ID>
+        </Contact>
+        <Contact>
+            <Name>Burlington Northern Santa Fe Corp.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>69</ID>
+        </Contact>
+        <Contact>
+            <Name>Cabletron Systems Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>70</ID>
+        </Contact>
+        <Contact>
+            <Name>Cabot Corp.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>71</ID>
+        </Contact>
+        <Contact>
+            <Name>Capital One Financial Corp.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>72</ID>
+        </Contact>
+        <Contact>
+            <Name>Cardinal Health Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>73</ID>
+        </Contact>
+        <Contact>
+            <Name>Cargill Inc.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>74</ID>
+        </Contact>
+        <Contact>
+            <Name>Carolina Holdings Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>75</ID>
+        </Contact>
+        <Contact>
+            <Name>Carolina Power and Light Co.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>76</ID>
+        </Contact>
+        <Contact>
+            <Name>Case Corp.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>77</ID>
+        </Contact>
+        <Contact>
+            <Name>Caterpillar Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>78</ID>
+        </Contact>
+        <Contact>
+            <Name>CBS Corp.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>79</ID>
+        </Contact>
+        <Contact>
+            <Name>CDW Computer Centers Inc.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>80</ID>
+        </Contact>
+        <Contact>
+            <Name>Cendant Corp.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>81</ID>
+        </Contact>
+        <Contact>
+            <Name>Central and South West Corp.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>82</ID>
+        </Contact>
+        <Contact>
+            <Name>Champion Enterprises Inc.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>83</ID>
+        </Contact>
+        <Contact>
+            <Name>Champion International Corp.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>84</ID>
+        </Contact>
+        <Contact>
+            <Name>Charles Schwab Corp.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>85</ID>
+        </Contact>
+        <Contact>
+            <Name>Chase Manhattan Corp.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>86</ID>
+        </Contact>
+        <Contact>
+            <Name>Chesapeake Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>87</ID>
+        </Contact>
+        <Contact>
+            <Name>Chevron Corp.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>88</ID>
+        </Contact>
+        <Contact>
+            <Name>Chiquita Brands International Inc.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>89</ID>
+        </Contact>
+        <Contact>
+            <Name>Chrysler Corp.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>90</ID>
+        </Contact>
+        <Contact>
+            <Name>CHS Electronics Inc.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>91</ID>
+        </Contact>
+        <Contact>
+            <Name>Chubb Corp.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>92</ID>
+        </Contact>
+        <Contact>
+            <Name>Cigna Corp.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>93</ID>
+        </Contact>
+        <Contact>
+            <Name>Cincinnati Financial Corp.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>94</ID>
+        </Contact>
+        <Contact>
+            <Name>Cisco Systems Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>95</ID>
+        </Contact>
+        <Contact>
+            <Name>CIT Group Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>96</ID>
+        </Contact>
+        <Contact>
+            <Name>Citicorp</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>97</ID>
+        </Contact>
+        <Contact>
+            <Name>Clark USA Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>98</ID>
+        </Contact>
+        <Contact>
+            <Name>CNA Financial Corp.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>99</ID>
+        </Contact>
+        <Contact>
+            <Name>CNF Transportation Inc.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>100</ID>
+        </Contact>
+        <Contact>
+            <Name>Coastal Corp.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>101</ID>
+        </Contact>
+        <Contact>
+            <Name>Cole National Corp.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>102</ID>
+        </Contact>
+        <Contact>
+            <Name>Colgate-Palmolive Co.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>103</ID>
+        </Contact>
+        <Contact>
+            <Name>Coltec Industries Inc.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>104</ID>
+        </Contact>
+        <Contact>
+            <Name>Colubi Corporation®</Name>
+            <Phone1>987090392</Phone1>
+            <Phone2>854698569</Phone2>
+            <ID>506</ID>
+        </Contact>
+        <Contact>
+            <Name>Columbia/HCA Healthcare Corp.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>105</ID>
+        </Contact>
+        <Contact>
+            <Name>Com Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>106</ID>
+        </Contact>
+        <Contact>
+            <Name>Comcast Corp.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>107</ID>
+        </Contact>
+        <Contact>
+            <Name>Comdisco Inc.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>108</ID>
+        </Contact>
+        <Contact>
+            <Name>Compaq Computer Corp.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>109</ID>
+        </Contact>
+        <Contact>
+            <Name>CompuCom Systems Inc.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>110</ID>
+        </Contact>
+        <Contact>
+            <Name>Computer Associates International Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>111</ID>
+        </Contact>
+        <Contact>
+            <Name>Consolidated Edison Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>112</ID>
+        </Contact>
+        <Contact>
+            <Name>Consolidated Stores Corp.</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>113</ID>
+        </Contact>
+        <Contact>
+            <Name>Continental Airlines Inc.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>114</ID>
+        </Contact>
+        <Contact>
+            <Name>Continental Grain Co.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>115</ID>
+        </Contact>
+        <Contact>
+            <Name>Cooper Tire and Rubber Co.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>116</ID>
+        </Contact>
+        <Contact>
+            <Name>Cracker Barrel Old Country Store Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>117</ID>
+        </Contact>
+        <Contact>
+            <Name>Crown Central Petroleum Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>118</ID>
+        </Contact>
+        <Contact>
+            <Name>Crown Cork and Seal Co. Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>119</ID>
+        </Contact>
+        <Contact>
+            <Name>CSX Corp.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>120</ID>
+        </Contact>
+        <Contact>
+            <Name>Cummins Engine Co. Inc.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>121</ID>
+        </Contact>
+        <Contact>
+            <Name>Cyprus Amax Minerals Co.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>122</ID>
+        </Contact>
+        <Contact>
+            <Name>Darden Restaurants Inc.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>123</ID>
+        </Contact>
+        <Contact>
+            <Name>Data General Corp.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>124</ID>
+        </Contact>
+        <Contact>
+            <Name>Dayton Hudson Corp.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>125</ID>
+        </Contact>
+        <Contact>
+            <Name>Deere and Co.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>126</ID>
+        </Contact>
+        <Contact>
+            <Name>Delaware North Cos. Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>127</ID>
+        </Contact>
+        <Contact>
+            <Name>Dell Computer Corp.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>128</ID>
+        </Contact>
+        <Contact>
+            <Name>Deloitte and Touche LLP</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>129</ID>
+        </Contact>
+        <Contact>
+            <Name>Deluxe Corp.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>130</ID>
+        </Contact>
+        <Contact>
+            <Name>Dexter Corp.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>131</ID>
+        </Contact>
+        <Contact>
+            <Name>DHL Worldwide Express</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>132</ID>
+        </Contact>
+        <Contact>
+            <Name>Dial Corp.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>133</ID>
+        </Contact>
+        <Contact>
+            <Name>Diebold Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>134</ID>
+        </Contact>
+        <Contact>
+            <Name>Dimon Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>135</ID>
+        </Contact>
+        <Contact>
+            <Name>Domino&apos;s Pizza Inc.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>136</ID>
+        </Contact>
+        <Contact>
+            <Name>Dow Chemical Co.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>137</ID>
+        </Contact>
+        <Contact>
+            <Name>Dow Jones&amp;Co. Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>138</ID>
+        </Contact>
+        <Contact>
+            <Name>Dresser Industries Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>139</ID>
+        </Contact>
+        <Contact>
+            <Name>DTE Energy Co.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>140</ID>
+        </Contact>
+        <Contact>
+            <Name>Duchossois Industries Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>141</ID>
+        </Contact>
+        <Contact>
+            <Name>Duke Energy Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>142</ID>
+        </Contact>
+        <Contact>
+            <Name>DuPont Co.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>143</ID>
+        </Contact>
+        <Contact>
+            <Name>DynCorp</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>144</ID>
+        </Contact>
+        <Contact>
+            <Name>E.W. Scripps Co.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>145</ID>
+        </Contact>
+        <Contact>
+            <Name>Earle M Jorgensen Holding Co. Inc.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>146</ID>
+        </Contact>
+        <Contact>
+            <Name>Earthgrains Co.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>147</ID>
+        </Contact>
+        <Contact>
+            <Name>Eastman Chemical Co.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>148</ID>
+        </Contact>
+        <Contact>
+            <Name>Eastman Kodak Co.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>149</ID>
+        </Contact>
+        <Contact>
+            <Name>Eaton Corp.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>150</ID>
+        </Contact>
+        <Contact>
+            <Name>Edison International</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>151</ID>
+        </Contact>
+        <Contact>
+            <Name>EG&amp;G Inc.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>152</ID>
+        </Contact>
+        <Contact>
+            <Name>El Paso Natural Gas Co.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>153</ID>
+        </Contact>
+        <Contact>
+            <Name>Electronic Data Systems Corp.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>154</ID>
+        </Contact>
+        <Contact>
+            <Name>Eli Lilly and Co.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>155</ID>
+        </Contact>
+        <Contact>
+            <Name>EMC Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>156</ID>
+        </Contact>
+        <Contact>
+            <Name>Emerson Electric Co.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>157</ID>
+        </Contact>
+        <Contact>
+            <Name>Engelhard Corp.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>158</ID>
+        </Contact>
+        <Contact>
+            <Name>Enron Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>159</ID>
+        </Contact>
+        <Contact>
+            <Name>Entergy Corp.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>160</ID>
+        </Contact>
+        <Contact>
+            <Name>Equifax Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>161</ID>
+        </Contact>
+        <Contact>
+            <Name>Equitable Resources Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>162</ID>
+        </Contact>
+        <Contact>
+            <Name>Ernst&amp;Young LLP</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>163</ID>
+        </Contact>
+        <Contact>
+            <Name>Essex International Inc.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>164</ID>
+        </Contact>
+        <Contact>
+            <Name>Excel Communications Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>165</ID>
+        </Contact>
+        <Contact>
+            <Name>Fannie Mae</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>166</ID>
+        </Contact>
+        <Contact>
+            <Name>FDX Corp.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>167</ID>
+        </Contact>
+        <Contact>
+            <Name>Fifth Third BanCorp</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>168</ID>
+        </Contact>
+        <Contact>
+            <Name>First Chicago NBD Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>169</ID>
+        </Contact>
+        <Contact>
+            <Name>First Union Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>170</ID>
+        </Contact>
+        <Contact>
+            <Name>Firstar Corp.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>171</ID>
+        </Contact>
+        <Contact>
+            <Name>FirstEnergy Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>172</ID>
+        </Contact>
+        <Contact>
+            <Name>Fleet Financial Group Inc.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>173</ID>
+        </Contact>
+        <Contact>
+            <Name>Fleming Companies Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>174</ID>
+        </Contact>
+        <Contact>
+            <Name>Flowers Industries Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>175</ID>
+        </Contact>
+        <Contact>
+            <Name>Flying J Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>176</ID>
+        </Contact>
+        <Contact>
+            <Name>Footstar Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>177</ID>
+        </Contact>
+        <Contact>
+            <Name>Ford Motor Co.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>178</ID>
+        </Contact>
+        <Contact>
+            <Name>Fort James Corp.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>179</ID>
+        </Contact>
+        <Contact>
+            <Name>Fortune Brands Inc.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>180</ID>
+        </Contact>
+        <Contact>
+            <Name>Foster Wheeler Corp.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>181</ID>
+        </Contact>
+        <Contact>
+            <Name>FPL Group Inc.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>182</ID>
+        </Contact>
+        <Contact>
+            <Name>Frank Consolidated Enterprises</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>183</ID>
+        </Contact>
+        <Contact>
+            <Name>Freddie Mac</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>184</ID>
+        </Contact>
+        <Contact>
+            <Name>Freeport-McMoRan Copper&amp;Gold Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>185</ID>
+        </Contact>
+        <Contact>
+            <Name>Frontier Corp.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>186</ID>
+        </Contact>
+        <Contact>
+            <Name>Fruit of the Loom Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>187</ID>
+        </Contact>
+        <Contact>
+            <Name>Furr&apos;s Supermarkets Inc.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>188</ID>
+        </Contact>
+        <Contact>
+            <Name>GAF Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>189</ID>
+        </Contact>
+        <Contact>
+            <Name>Gannett Co. Inc.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>190</ID>
+        </Contact>
+        <Contact>
+            <Name>Gateway Inc.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>191</ID>
+        </Contact>
+        <Contact>
+            <Name>GATX Corp.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>192</ID>
+        </Contact>
+        <Contact>
+            <Name>GenCorp. Inc.</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>193</ID>
+        </Contact>
+        <Contact>
+            <Name>General Electric Co.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>194</ID>
+        </Contact>
+        <Contact>
+            <Name>General Motors Corp.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>195</ID>
+        </Contact>
+        <Contact>
+            <Name>General Re Corp.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>196</ID>
+        </Contact>
+        <Contact>
+            <Name>General Signal Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>197</ID>
+        </Contact>
+        <Contact>
+            <Name>Genesis Health Ventures Inc.</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>198</ID>
+        </Contact>
+        <Contact>
+            <Name>Genuine Parts Co.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>199</ID>
+        </Contact>
+        <Contact>
+            <Name>Geon Co.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>200</ID>
+        </Contact>
+        <Contact>
+            <Name>Georgia-Pacific Group</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>201</ID>
+        </Contact>
+        <Contact>
+            <Name>Gilbane Building Co.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>202</ID>
+        </Contact>
+        <Contact>
+            <Name>Gillette Co.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>203</ID>
+        </Contact>
+        <Contact>
+            <Name>Goodyear Tire&amp;Rubber Co.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>204</ID>
+        </Contact>
+        <Contact>
+            <Name>GPU Inc.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>205</ID>
+        </Contact>
+        <Contact>
+            <Name>Granite Construction Inc.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>206</ID>
+        </Contact>
+        <Contact>
+            <Name>Green Tree Financial Corp.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>207</ID>
+        </Contact>
+        <Contact>
+            <Name>Guidant Corp.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>208</ID>
+        </Contact>
+        <Contact>
+            <Name>Gulf States Toyota Inc.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>209</ID>
+        </Contact>
+        <Contact>
+            <Name>Gulfstream Aerospace Corp.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>210</ID>
+        </Contact>
+        <Contact>
+            <Name>H.B. Fuller Co.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>211</ID>
+        </Contact>
+        <Contact>
+            <Name>H.F. Ahmanson&amp;Co.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>212</ID>
+        </Contact>
+        <Contact>
+            <Name>H.T. Hackney Co.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>213</ID>
+        </Contact>
+        <Contact>
+            <Name>Hannaford Bros. Co.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>214</ID>
+        </Contact>
+        <Contact>
+            <Name>Harley-Davidson Inc.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>215</ID>
+        </Contact>
+        <Contact>
+            <Name>Harris Corp.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>216</ID>
+        </Contact>
+        <Contact>
+            <Name>Hartford Financial Services Group Inc.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>217</ID>
+        </Contact>
+        <Contact>
+            <Name>Hasbro Inc.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>218</ID>
+        </Contact>
+        <Contact>
+            <Name>Heilig-Meyers Co.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>219</ID>
+        </Contact>
+        <Contact>
+            <Name>Hendrick Automotive Group</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>220</ID>
+        </Contact>
+        <Contact>
+            <Name>Hershey Foods Corp.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>221</ID>
+        </Contact>
+        <Contact>
+            <Name>Hewlett-Packard Co.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>222</ID>
+        </Contact>
+        <Contact>
+            <Name>Hilton Hotels Corp.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>223</ID>
+        </Contact>
+        <Contact>
+            <Name>Hollinger International Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>224</ID>
+        </Contact>
+        <Contact>
+            <Name>Honeywell Inc.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>225</ID>
+        </Contact>
+        <Contact>
+            <Name>Huntington Bancshares Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>226</ID>
+        </Contact>
+        <Contact>
+            <Name>Hyatt Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>227</ID>
+        </Contact>
+        <Contact>
+            <Name>IBM</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>228</ID>
+        </Contact>
+        <Contact>
+            <Name>IBP Inc.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>229</ID>
+        </Contact>
+        <Contact>
+            <Name>ICF Kaiser International Inc.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>230</ID>
+        </Contact>
+        <Contact>
+            <Name>Ikon Office Solutions Inc.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>231</ID>
+        </Contact>
+        <Contact>
+            <Name>Illinois Tool Works Inc.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>232</ID>
+        </Contact>
+        <Contact>
+            <Name>IMC Global Inc.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>233</ID>
+        </Contact>
+        <Contact>
+            <Name>IMG</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>234</ID>
+        </Contact>
+        <Contact>
+            <Name>InaCom Corp.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>235</ID>
+        </Contact>
+        <Contact>
+            <Name>Ingersoll-Rand Co.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>236</ID>
+        </Contact>
+        <Contact>
+            <Name>Ingram Micro Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>237</ID>
+        </Contact>
+        <Contact>
+            <Name>Inland Steel Industries Inc.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>238</ID>
+        </Contact>
+        <Contact>
+            <Name>Integrated Health Services Inc.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>239</ID>
+        </Contact>
+        <Contact>
+            <Name>Interface Inc.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>240</ID>
+        </Contact>
+        <Contact>
+            <Name>Interim Services Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>241</ID>
+        </Contact>
+        <Contact>
+            <Name>Intermountain Health Care Inc.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>242</ID>
+        </Contact>
+        <Contact>
+            <Name>International Paper Co.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>243</ID>
+        </Contact>
+        <Contact>
+            <Name>ITT Industries Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>244</ID>
+        </Contact>
+        <Contact>
+            <Name>J.B. Hunt Transport Services Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>245</ID>
+        </Contact>
+        <Contact>
+            <Name>J.C. Penney Co. Inc.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>246</ID>
+        </Contact>
+        <Contact>
+            <Name>J.P. Morgan and Co. Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>247</ID>
+        </Contact>
+        <Contact>
+            <Name>JMB Realty Corp. *</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>248</ID>
+        </Contact>
+        <Contact>
+            <Name>John Hancock Mutual Life Ins. Co.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>249</ID>
+        </Contact>
+        <Contact>
+            <Name>Johnson Controls Inc.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>250</ID>
+        </Contact>
+        <Contact>
+            <Name>Kansas City Southern Industries Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>251</ID>
+        </Contact>
+        <Contact>
+            <Name>KeyCorp</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>252</ID>
+        </Contact>
+        <Contact>
+            <Name>Kimberly-Clark Corp.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>253</ID>
+        </Contact>
+        <Contact>
+            <Name>Kmart Corp.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>254</ID>
+        </Contact>
+        <Contact>
+            <Name>Knight Ridder</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>255</ID>
+        </Contact>
+        <Contact>
+            <Name>L.L. Bean Inc.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>256</ID>
+        </Contact>
+        <Contact>
+            <Name>Laboratory Corp. of America Holdings</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>257</ID>
+        </Contact>
+        <Contact>
+            <Name>Lands&apos;End Inc.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>258</ID>
+        </Contact>
+        <Contact>
+            <Name>Lear Corp.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>259</ID>
+        </Contact>
+        <Contact>
+            <Name>Leggett&amp;Platt Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>260</ID>
+        </Contact>
+        <Contact>
+            <Name>Lehman Brothers Holdings Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>261</ID>
+        </Contact>
+        <Contact>
+            <Name>Lexmark International Group Inc.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>262</ID>
+        </Contact>
+        <Contact>
+            <Name>Litton Industries Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>263</ID>
+        </Contact>
+        <Contact>
+            <Name>Lockheed Martin Corp.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>264</ID>
+        </Contact>
+        <Contact>
+            <Name>LSI Logic Corp.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>265</ID>
+        </Contact>
+        <Contact>
+            <Name>LST IND. CO</Name>
+            <Phone1>933659214</Phone1>
+            <Phone2>223614445</Phone2>
+            <ID>7</ID>
+        </Contact>
+        <Contact>
+            <Name>Lubrizol Corp.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>900036587</Phone2>
+            <ID>266</ID>
+        </Contact>
+        <Contact>
+            <Name>Lyondell Petrochemical Co.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>267</ID>
+        </Contact>
+        <Contact>
+            <Name>M Co.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>268</ID>
+        </Contact>
+        <Contact>
+            <Name>M.A. Hanna Co.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>269</ID>
+        </Contact>
+        <Contact>
+            <Name>MagneTek Inc.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>270</ID>
+        </Contact>
+        <Contact>
+            <Name>Manpower Inc.</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>271</ID>
+        </Contact>
+        <Contact>
+            <Name>Marketspan Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>272</ID>
+        </Contact>
+        <Contact>
+            <Name>Marmon Group Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>273</ID>
+        </Contact>
+        <Contact>
+            <Name>Marriott International Corp.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>274</ID>
+        </Contact>
+        <Contact>
+            <Name>Marsh&amp;McLennan Cos.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>275</ID>
+        </Contact>
+        <Contact>
+            <Name>Marshall Industries</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>276</ID>
+        </Contact>
+        <Contact>
+            <Name>Maytag Corp.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>277</ID>
+        </Contact>
+        <Contact>
+            <Name>McDonald&apos;s Corp.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>278</ID>
+        </Contact>
+        <Contact>
+            <Name>MCI Communications Corp.</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>279</ID>
+        </Contact>
+        <Contact>
+            <Name>Medtronic Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>280</ID>
+        </Contact>
+        <Contact>
+            <Name>Mellon Bank Corp.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>281</ID>
+        </Contact>
+        <Contact>
+            <Name>Mercantile BanCorporation</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>282</ID>
+        </Contact>
+        <Contact>
+            <Name>Merck&amp;Co. Inc.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>283</ID>
+        </Contact>
+        <Contact>
+            <Name>Meritor Automotive Inc.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>555587111</Phone2>
+            <ID>284</ID>
+        </Contact>
+        <Contact>
+            <Name>Merrill Lynch&amp;Co. Inc.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>285</ID>
+        </Contact>
+        <Contact>
+            <Name>Metropolitan Life Insurance Co.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>286</ID>
+        </Contact>
+        <Contact>
+            <Name>MicroAge Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>287</ID>
+        </Contact>
+        <Contact>
+            <Name>Micron Technology Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>288</ID>
+        </Contact>
+        <Contact>
+            <Name>Microsoft Corp.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>289</ID>
+        </Contact>
+        <Contact>
+            <Name>Millennium Chemicals Inc.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>290</ID>
+        </Contact>
+        <Contact>
+            <Name>Milliken&amp;Co. Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>291</ID>
+        </Contact>
+        <Contact>
+            <Name>Minnesota Mutual Life Insurance Co.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>292</ID>
+        </Contact>
+        <Contact>
+            <Name>Modis Professional Services</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>293</ID>
+        </Contact>
+        <Contact>
+            <Name>Monsanto Co.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>294</ID>
+        </Contact>
+        <Contact>
+            <Name>Montgomery Ward Holding Corp.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>295</ID>
+        </Contact>
+        <Contact>
+            <Name>Morgan Stanley Dean Witter&amp;Co.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>296</ID>
+        </Contact>
+        <Contact>
+            <Name>Morrison Knudsen Corp.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>297</ID>
+        </Contact>
+        <Contact>
+            <Name>Mutual of New York</Name>
+            <Phone1>955554785</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>298</ID>
+        </Contact>
+        <Contact>
+            <Name>Nabisco Holdings Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>299</ID>
+        </Contact>
+        <Contact>
+            <Name>National City Corp.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>300</ID>
+        </Contact>
+        <Contact>
+            <Name>National Fuel Gas Co.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>301</ID>
+        </Contact>
+        <Contact>
+            <Name>Navistar International Corp.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>302</ID>
+        </Contact>
+        <Contact>
+            <Name>NCR Corporated</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>303</ID>
+        </Contact>
+        <Contact>
+            <Name>Neuman Distributors Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>304</ID>
+        </Contact>
+        <Contact>
+            <Name>New York Life Insurance Co.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>305</ID>
+        </Contact>
+        <Contact>
+            <Name>Newport News Shipbuilding Inc.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>306</ID>
+        </Contact>
+        <Contact>
+            <Name>Niagara Mohawk Power Corp.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>307</ID>
+        </Contact>
+        <Contact>
+            <Name>Nipsco Industries Inc.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>308</ID>
+        </Contact>
+        <Contact>
+            <Name>Noble Affiliates Inc.</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>309</ID>
+        </Contact>
+        <Contact>
+            <Name>Norrell Corp.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>310</ID>
+        </Contact>
+        <Contact>
+            <Name>Nortek Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>311</ID>
+        </Contact>
+        <Contact>
+            <Name>North Pacific Lumber Co.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>312</ID>
+        </Contact>
+        <Contact>
+            <Name>Northeast Utilities</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>313</ID>
+        </Contact>
+        <Contact>
+            <Name>Northern States Power Co.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>314</ID>
+        </Contact>
+        <Contact>
+            <Name>Northern Trust Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>315</ID>
+        </Contact>
+        <Contact>
+            <Name>Northrop Grumman Corp.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>316</ID>
+        </Contact>
+        <Contact>
+            <Name>Northwestern Mutual Life Inc.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>317</ID>
+        </Contact>
+        <Contact>
+            <Name>Novell Inc.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>318</ID>
+        </Contact>
+        <Contact>
+            <Name>Nu Skin International Inc.</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>319</ID>
+        </Contact>
+        <Contact>
+            <Name>Nucor Corp.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>320</ID>
+        </Contact>
+        <Contact>
+            <Name>Occidental Petroleum Corp.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>321</ID>
+        </Contact>
+        <Contact>
+            <Name>Office Depot Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>322</ID>
+        </Contact>
+        <Contact>
+            <Name>OfficeMax Inc.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>323</ID>
+        </Contact>
+        <Contact>
+            <Name>Ohio Casualty Corp.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>324</ID>
+        </Contact>
+        <Contact>
+            <Name>Old Kent Financial Corp.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>325</ID>
+        </Contact>
+        <Contact>
+            <Name>Olin Corp.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>326</ID>
+        </Contact>
+        <Contact>
+            <Name>Olsten Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>327</ID>
+        </Contact>
+        <Contact>
+            <Name>Omnicom Group Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>328</ID>
+        </Contact>
+        <Contact>
+            <Name>Oneok Inc.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>329</ID>
+        </Contact>
+        <Contact>
+            <Name>Orion Capital Corp.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>330</ID>
+        </Contact>
+        <Contact>
+            <Name>Oryx Energy Co.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>331</ID>
+        </Contact>
+        <Contact>
+            <Name>Owens and Minor Inc.</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>332</ID>
+        </Contact>
+        <Contact>
+            <Name>Owens Corning Inc.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>333</ID>
+        </Contact>
+        <Contact>
+            <Name>Pacific Enterprises</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>334</ID>
+        </Contact>
+        <Contact>
+            <Name>PacifiCare Health Systems Inc.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>335</ID>
+        </Contact>
+        <Contact>
+            <Name>Paine Webber Group Inc.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>336</ID>
+        </Contact>
+        <Contact>
+            <Name>Paragon Health Network Inc.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>337</ID>
+        </Contact>
+        <Contact>
+            <Name>Parker Hannifin Corp.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>338</ID>
+        </Contact>
+        <Contact>
+            <Name>Parsons Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>339</ID>
+        </Contact>
+        <Contact>
+            <Name>Peco Energy Co.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>340</ID>
+        </Contact>
+        <Contact>
+            <Name>Penn Traffic Co.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>555545155</Phone2>
+            <ID>341</ID>
+        </Contact>
+        <Contact>
+            <Name>Peoples Energy Corp.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>342</ID>
+        </Contact>
+        <Contact>
+            <Name>PepsiCo Inc.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>343</ID>
+        </Contact>
+        <Contact>
+            <Name>Petsmart Inc.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>344</ID>
+        </Contact>
+        <Contact>
+            <Name>Phelps Dodge Corp.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>345</ID>
+        </Contact>
+        <Contact>
+            <Name>Philip Morris Cos. Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>346</ID>
+        </Contact>
+        <Contact>
+            <Name>Phillips Petroleum Co.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>347</ID>
+        </Contact>
+        <Contact>
+            <Name>Phillips-Van Heusen Corp.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>348</ID>
+        </Contact>
+        <Contact>
+            <Name>Pinnacle West Capital Corp.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>349</ID>
+        </Contact>
+        <Contact>
+            <Name>Pioneer-Standard Electronics Inc.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>350</ID>
+        </Contact>
+        <Contact>
+            <Name>PNC Bank Corp.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>351</ID>
+        </Contact>
+        <Contact>
+            <Name>Polaris Industries Inc.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>352</ID>
+        </Contact>
+        <Contact>
+            <Name>Polaroid Corp.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>353</ID>
+        </Contact>
+        <Contact>
+            <Name>PPG Industries Inc.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>354</ID>
+        </Contact>
+        <Contact>
+            <Name>Praxair Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>355</ID>
+        </Contact>
+        <Contact>
+            <Name>PricewaterhouseCoopers</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>356</ID>
+        </Contact>
+        <Contact>
+            <Name>PriMedia Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>357</ID>
+        </Contact>
+        <Contact>
+            <Name>Principal Financial Group</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>358</ID>
+        </Contact>
+        <Contact>
+            <Name>Procter&amp;Gamble Co.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>359</ID>
+        </Contact>
+        <Contact>
+            <Name>ProSource Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>360</ID>
+        </Contact>
+        <Contact>
+            <Name>Provident Cos. Inc.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>255522656</Phone2>
+            <ID>361</ID>
+        </Contact>
+        <Contact>
+            <Name>Prudential Insurance Co. of America</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>362</ID>
+        </Contact>
+        <Contact>
+            <Name>Public Service Co. of New Mexico</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>363</ID>
+        </Contact>
+        <Contact>
+            <Name>Pulte Corp.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>364</ID>
+        </Contact>
+        <Contact>
+            <Name>Quad/Graphics Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>365</ID>
+        </Contact>
+        <Contact>
+            <Name>Quaker State Corp.</Name>
+            <Phone1>900326596</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>366</ID>
+        </Contact>
+        <Contact>
+            <Name>Qualcomm Inc.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>144587963</Phone2>
+            <ID>367</ID>
+        </Contact>
+        <Contact>
+            <Name>Quantum Corp.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>555589332</Phone2>
+            <ID>368</ID>
+        </Contact>
+        <Contact>
+            <Name>Quest Diagnostics Inc.</Name>
+            <Phone1>963302365</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>369</ID>
+        </Contact>
+        <Contact>
+            <Name>Quorum Health Group Inc.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>370</ID>
+        </Contact>
+        <Contact>
+            <Name>R.R. Donnelley&amp;Sons Co.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>371</ID>
+        </Contact>
+        <Contact>
+            <Name>Raban Fenar Incorporated</Name>
+            <Phone1>466328777</Phone1>
+            <Phone2>887943564</Phone2>
+            <ID>507</ID>
+        </Contact>
+        <Contact>
+            <Name>Ralston Purina Co.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>372</ID>
+        </Contact>
+        <Contact>
+            <Name>Randall&apos;s Food Markets Inc.</Name>
+            <Phone1>988569856</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>373</ID>
+        </Contact>
+        <Contact>
+            <Name>Rayonier Inc.</Name>
+            <Phone1>965698517</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>374</ID>
+        </Contact>
+        <Contact>
+            <Name>Raytheon Co.</Name>
+            <Phone1>923598921</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>375</ID>
+        </Contact>
+        <Contact>
+            <Name>Reader&apos;s Digest Association Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>376</ID>
+        </Contact>
+        <Contact>
+            <Name>Republic Industries Inc.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>377</ID>
+        </Contact>
+        <Contact>
+            <Name>Republic New York Corp.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>378</ID>
+        </Contact>
+        <Contact>
+            <Name>Reynolds Metals Co.</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>221995416</Phone2>
+            <ID>379</ID>
+        </Contact>
+        <Contact>
+            <Name>Rich Products Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>380</ID>
+        </Contact>
+        <Contact>
+            <Name>Richfood Holdings Inc.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>381</ID>
+        </Contact>
+        <Contact>
+            <Name>Rite Aid Corp.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>382</ID>
+        </Contact>
+        <Contact>
+            <Name>Riverwood International Corp.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>383</ID>
+        </Contact>
+        <Contact>
+            <Name>Rochester Gas and Electric Corp.</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>384</ID>
+        </Contact>
+        <Contact>
+            <Name>Rockwell International Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>385</ID>
+        </Contact>
+        <Contact>
+            <Name>Rohm and Haas Co.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>386</ID>
+        </Contact>
+        <Contact>
+            <Name>Ryder System Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>387</ID>
+        </Contact>
+        <Contact>
+            <Name>Ryerson Tull Inc.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>388</ID>
+        </Contact>
+        <Contact>
+            <Name>Safeco Corp.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>389</ID>
+        </Contact>
+        <Contact>
+            <Name>Safeway Inc.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>390</ID>
+        </Contact>
+        <Contact>
+            <Name>Sara Lee Corp.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>391</ID>
+        </Contact>
+        <Contact>
+            <Name>Scana Corp.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>392</ID>
+        </Contact>
+        <Contact>
+            <Name>Schlumberger Ltd.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>393</ID>
+        </Contact>
+        <Contact>
+            <Name>Schneider National</Name>
+            <Phone1>988771188</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>394</ID>
+        </Contact>
+        <Contact>
+            <Name>Schreiber Foods Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>395</ID>
+        </Contact>
+        <Contact>
+            <Name>Science Applications Int. Corp.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>396</ID>
+        </Contact>
+        <Contact>
+            <Name>Sears Roebuck and Co.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>397</ID>
+        </Contact>
+        <Contact>
+            <Name>Sensormatic Electronics Corp.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>398</ID>
+        </Contact>
+        <Contact>
+            <Name>Service Merchandise Co. Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>399</ID>
+        </Contact>
+        <Contact>
+            <Name>ServiceMaster Co.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>400</ID>
+        </Contact>
+        <Contact>
+            <Name>Shaw Industries Inc.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>401</ID>
+        </Contact>
+        <Contact>
+            <Name>Snap-on Inc.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>402</ID>
+        </Contact>
+        <Contact>
+            <Name>SNET</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>403</ID>
+        </Contact>
+        <Contact>
+            <Name>Solutia Inc.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>404</ID>
+        </Contact>
+        <Contact>
+            <Name>Sonoco Products Co.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>405</ID>
+        </Contact>
+        <Contact>
+            <Name>Southern Co.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>406</ID>
+        </Contact>
+        <Contact>
+            <Name>Spartan Stores Inc.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>407</ID>
+        </Contact>
+        <Contact>
+            <Name>Specialty Foods Corp.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>408</ID>
+        </Contact>
+        <Contact>
+            <Name>Sprint Corp.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>409</ID>
+        </Contact>
+        <Contact>
+            <Name>St. Paul Companies Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>410</ID>
+        </Contact>
+        <Contact>
+            <Name>Standard Commercial Corp.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>411</ID>
+        </Contact>
+        <Contact>
+            <Name>Standard Insurance Co.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>412</ID>
+        </Contact>
+        <Contact>
+            <Name>Staples Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>215499221</Phone2>
+            <ID>413</ID>
+        </Contact>
+        <Contact>
+            <Name>State Farm Mutual Auto. Ins. Co.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>414</ID>
+        </Contact>
+        <Contact>
+            <Name>State Street Bank&amp;Trust</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>415</ID>
+        </Contact>
+        <Contact>
+            <Name>Storage Technology Corp.</Name>
+            <Phone1>911258547</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>416</ID>
+        </Contact>
+        <Contact>
+            <Name>Summit BanCorp</Name>
+            <Phone1>933696369</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>417</ID>
+        </Contact>
+        <Contact>
+            <Name>Sun Co. Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>418</ID>
+        </Contact>
+        <Contact>
+            <Name>Sun Healthcare Group Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>789965219</Phone2>
+            <ID>419</ID>
+        </Contact>
+        <Contact>
+            <Name>Sun Microsystems Inc.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>420</ID>
+        </Contact>
+        <Contact>
+            <Name>Sundstrand Corp.</Name>
+            <Phone1>921457845</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>421</ID>
+        </Contact>
+        <Contact>
+            <Name>Sunkist Growers Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>422</ID>
+        </Contact>
+        <Contact>
+            <Name>Supervalu Inc.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>336366254</Phone2>
+            <ID>423</ID>
+        </Contact>
+        <Contact>
+            <Name>Sybase Inc.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>558627126</Phone2>
+            <ID>424</ID>
+        </Contact>
+        <Contact>
+            <Name>Sysco Corp.</Name>
+            <Phone1>982301254</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>425</ID>
+        </Contact>
+        <Contact>
+            <Name>Tandy Corp.</Name>
+            <Phone1>912545879</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>426</ID>
+        </Contact>
+        <Contact>
+            <Name>Tektronix Inc.</Name>
+            <Phone1>924587568</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>427</ID>
+        </Contact>
+        <Contact>
+            <Name>Tenet Healthcare Corp.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>428</ID>
+        </Contact>
+        <Contact>
+            <Name>Texaco Inc.</Name>
+            <Phone1>953265987</Phone1>
+            <Phone2>336987569</Phone2>
+            <ID>429</ID>
+        </Contact>
+        <Contact>
+            <Name>Textron Inc.</Name>
+            <Phone1>932023659</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>430</ID>
+        </Contact>
+        <Contact>
+            <Name>The Gap Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>587489842</Phone2>
+            <ID>431</ID>
+        </Contact>
+        <Contact>
+            <Name>The Home Depot Inc.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>432</ID>
+        </Contact>
+        <Contact>
+            <Name>Tiffany&amp;Co.</Name>
+            <Phone1>999957845</Phone1>
+            <Phone2>458963220</Phone2>
+            <ID>433</ID>
+        </Contact>
+        <Contact>
+            <Name>Time Warner Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>657899985</Phone2>
+            <ID>434</ID>
+        </Contact>
+        <Contact>
+            <Name>Times Mirror Co.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>435</ID>
+        </Contact>
+        <Contact>
+            <Name>Timken Co.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>169852985</Phone2>
+            <ID>436</ID>
+        </Contact>
+        <Contact>
+            <Name>Toro Co.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>437</ID>
+        </Contact>
+        <Contact>
+            <Name>Towers Perrin Foster&amp;Crosby Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>214585258</Phone2>
+            <ID>438</ID>
+        </Contact>
+        <Contact>
+            <Name>Tracor Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>439</ID>
+        </Contact>
+        <Contact>
+            <Name>Transamerica Corp.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>440</ID>
+        </Contact>
+        <Contact>
+            <Name>Transatlantic Holdings Inc.</Name>
+            <Phone1>902365458</Phone1>
+            <Phone2>588699558</Phone2>
+            <ID>441</ID>
+        </Contact>
+        <Contact>
+            <Name>Turner Corp.</Name>
+            <Phone1>999326012</Phone1>
+            <Phone2>540566550</Phone2>
+            <ID>442</ID>
+        </Contact>
+        <Contact>
+            <Name>Tyco International Ltd.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>443</ID>
+        </Contact>
+        <Contact>
+            <Name>Tyson Foods Inc.</Name>
+            <Phone1>923559987</Phone1>
+            <Phone2>001544444</Phone2>
+            <ID>444</ID>
+        </Contact>
+        <Contact>
+            <Name>U.S. BanCorp</Name>
+            <Phone1>963325874</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>445</ID>
+        </Contact>
+        <Contact>
+            <Name>UAL Corp.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>446</ID>
+        </Contact>
+        <Contact>
+            <Name>Unicom Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>447</ID>
+        </Contact>
+        <Contact>
+            <Name>UniGroup Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>448</ID>
+        </Contact>
+        <Contact>
+            <Name>Union Pacific Resources Group Inc.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>449</ID>
+        </Contact>
+        <Contact>
+            <Name>UnionBanCal Corp.Temple-Inland Inc.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>511023699</Phone2>
+            <ID>450</ID>
+        </Contact>
+        <Contact>
+            <Name>Unisource Worldwide Inc.</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>451</ID>
+        </Contact>
+        <Contact>
+            <Name>Unisys Corp.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>452</ID>
+        </Contact>
+        <Contact>
+            <Name>United Dominion Industries Ltd.</Name>
+            <Phone1>932326587</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>453</ID>
+        </Contact>
+        <Contact>
+            <Name>United HealthCare Corp.</Name>
+            <Phone1>933021254</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>454</ID>
+        </Contact>
+        <Contact>
+            <Name>United Parcel Service</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>455</ID>
+        </Contact>
+        <Contact>
+            <Name>United Services Automobile Assoc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>456</ID>
+        </Contact>
+        <Contact>
+            <Name>United States Filter Corp.</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>457</ID>
+        </Contact>
+        <Contact>
+            <Name>United States Surgical Corp.</Name>
+            <Phone1>932145785</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>458</ID>
+        </Contact>
+        <Contact>
+            <Name>United Stationers Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>002587455</Phone2>
+            <ID>459</ID>
+        </Contact>
+        <Contact>
+            <Name>Universal Forest Products Inc.</Name>
+            <Phone1>986523365</Phone1>
+            <Phone2>775863228</Phone2>
+            <ID>460</ID>
+        </Contact>
+        <Contact>
+            <Name>Unocal Corp.</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>223697120</Phone2>
+            <ID>461</ID>
+        </Contact>
+        <Contact>
+            <Name>US Freightways Corp.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>885588965</Phone2>
+            <ID>462</ID>
+        </Contact>
+        <Contact>
+            <Name>USA Networks</Name>
+            <Phone1>903214587</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>463</ID>
+        </Contact>
+        <Contact>
+            <Name>USX-Marathon Group</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>650258622</Phone2>
+            <ID>464</ID>
+        </Contact>
+        <Contact>
+            <Name>USX-U.S. Steel Group</Name>
+            <Phone1>997414741</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>465</ID>
+        </Contact>
+        <Contact>
+            <Name>UtiliCorp United Inc.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>466</ID>
+        </Contact>
+        <Contact>
+            <Name>Valero Energy Corp.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>467</ID>
+        </Contact>
+        <Contact>
+            <Name>Valhi Inc.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>468</ID>
+        </Contact>
+        <Contact>
+            <Name>Valspar Corp.</Name>
+            <Phone1>923656987</Phone1>
+            <Phone2>299638741</Phone2>
+            <ID>469</ID>
+        </Contact>
+        <Contact>
+            <Name>Vanguard Group</Name>
+            <Phone1>923659854</Phone1>
+            <Phone2>632578962</Phone2>
+            <ID>470</ID>
+        </Contact>
+        <Contact>
+            <Name>Vencor Inc.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>212105588</Phone2>
+            <ID>471</ID>
+        </Contact>
+        <Contact>
+            <Name>Volt Information Sciences Inc.</Name>
+            <Phone1>932654587</Phone1>
+            <Phone2>452303698</Phone2>
+            <ID>472</ID>
+        </Contact>
+        <Contact>
+            <Name>W.R. Berkley Corp.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>552200066</Phone2>
+            <ID>473</ID>
+        </Contact>
+        <Contact>
+            <Name>W.R. Grace&amp;Co.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>474</ID>
+        </Contact>
+        <Contact>
+            <Name>Wachovia Corp.</Name>
+            <Phone1>977854210</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>475</ID>
+        </Contact>
+        <Contact>
+            <Name>Wackenhut Corp.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>476</ID>
+        </Contact>
+        <Contact>
+            <Name>Wal-Mart Stores Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>233698522</Phone2>
+            <ID>478</ID>
+        </Contact>
+        <Contact>
+            <Name>Walgreen Co.</Name>
+            <Phone1>993200145</Phone1>
+            <Phone2>325852125</Phone2>
+            <ID>477</ID>
+        </Contact>
+        <Contact>
+            <Name>Wang Global</Name>
+            <Phone1>932023669</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>479</ID>
+        </Contact>
+        <Contact>
+            <Name>Warner-Lambert Co.</Name>
+            <Phone1>900125458</Phone1>
+            <Phone2>998521482</Phone2>
+            <ID>480</ID>
+        </Contact>
+        <Contact>
+            <Name>Warren Equities Inc.</Name>
+            <Phone1>956231487</Phone1>
+            <Phone2>258623589</Phone2>
+            <ID>481</ID>
+        </Contact>
+        <Contact>
+            <Name>Weirton Steel Corp.</Name>
+            <Phone1>965235898</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>482</ID>
+        </Contact>
+        <Contact>
+            <Name>Wellman Inc.</Name>
+            <Phone1>959852147</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>483</ID>
+        </Contact>
+        <Contact>
+            <Name>Wellpoint Health Networks Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>469852696</Phone2>
+            <ID>484</ID>
+        </Contact>
+        <Contact>
+            <Name>Wells Fargo&amp;Co. Inc.</Name>
+            <Phone1>963265985</Phone1>
+            <Phone2>239852984</Phone2>
+            <ID>485</ID>
+        </Contact>
+        <Contact>
+            <Name>Wendy&apos;s International Inc.</Name>
+            <Phone1>912548758</Phone1>
+            <Phone2>655442055</Phone2>
+            <ID>486</ID>
+        </Contact>
+        <Contact>
+            <Name>Western Resources Inc.</Name>
+            <Phone1>932365987</Phone1>
+            <Phone2>855882156</Phone2>
+            <ID>487</ID>
+        </Contact>
+        <Contact>
+            <Name>Weyerhaeuser Co.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>155584598</Phone2>
+            <ID>488</ID>
+        </Contact>
+        <Contact>
+            <Name>Whirlpool Corp.</Name>
+            <Phone1>965124893</Phone1>
+            <Phone2>565596325</Phone2>
+            <ID>489</ID>
+        </Contact>
+        <Contact>
+            <Name>Wicor Inc.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>559952148</Phone2>
+            <ID>490</ID>
+        </Contact>
+        <Contact>
+            <Name>Williams Cos. Inc.</Name>
+            <Phone1>932658745</Phone1>
+            <Phone2>544125651</Phone2>
+            <ID>491</ID>
+        </Contact>
+        <Contact>
+            <Name>Winn-Dixie Stores Inc.</Name>
+            <Phone1>932665447</Phone1>
+            <Phone2>857421289</Phone2>
+            <ID>492</ID>
+        </Contact>
+        <Contact>
+            <Name>Witco Corp.</Name>
+            <Phone1>963258965</Phone1>
+            <Phone2>288963205</Phone2>
+            <ID>493</ID>
+        </Contact>
+        <Contact>
+            <Name>WorldCom Inc.</Name>
+            <Phone1>932641002</Phone1>
+            <Phone2>554896332</Phone2>
+            <ID>494</ID>
+        </Contact>
+        <Contact>
+            <Name>Worthington Industries Inc.</Name>
+            <Phone1>944444102</Phone1>
+            <Phone2>326598500</Phone2>
+            <ID>495</ID>
+        </Contact>
+        <Contact>
+            <Name>Xerox Corp.</Name>
+            <Phone1>932569857</Phone1>
+            <Phone2>224465668</Phone2>
+            <ID>496</ID>
+        </Contact>
+        <Contact>
+            <Name>York International Corp.</Name>
+            <Phone1>922585474</Phone1>
+            <Phone2>558745887</Phone2>
+            <ID>497</ID>
+        </Contact>
+        <Contact>
+            <Name>Young and Rubicam Inc.</Name>
+            <Phone1>956451245</Phone1>
+            <Phone2>589822589</Phone2>
+            <ID>498</ID>
+        </Contact>
+        <Contact>
+            <Name>Zalman WaterBloks Corp.</Name>
+            <Phone1>985258525</Phone1>
+            <Phone2>555522552</Phone2>
+            <ID>499</ID>
+        </Contact>
+        <Contact>
+            <Name>ZZ Top</Name>
+            <Phone1>912369587</Phone1>
+            <Phone2>326598574</Phone2>
+            <ID>504</ID>
+        </Contact>
+        <Contact>
+            <Name>Burguets Corporation</Name>
+            <Phone1>987568795</Phone1>
+            <Phone2>657222356</Phone2>
+            <ID>508</ID>
+        </Contact>
+        <Contact>
+            <Name>Noch y Valle de Fenar</Name>
+            <Phone1>987659874</Phone1>
+            <Phone2>695444478</Phone2>
+            <ID>509</ID>
+        </Contact>
+</Phonebook>
