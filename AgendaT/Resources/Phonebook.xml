@@ -421,6 +421,12 @@
             <ID>66</ID>
         </Contact>
         <Contact>
+            <Name>Burguets Corporation</Name>
+            <Phone1>987568795</Phone1>
+            <Phone2>657222356</Phone2>
+            <ID>508</ID>
+        </Contact>
+        <Contact>
             <Name>Burlington Coat Factory Warehouse Corp.</Name>
             <Phone1>956451245</Phone1>
             <Phone2>558745887</Phone2>
@@ -1891,6 +1897,12 @@
             <ID>309</ID>
         </Contact>
         <Contact>
+            <Name>Noch y Valle de Fenar</Name>
+            <Phone1>987659874</Phone1>
+            <Phone2>695444478</Phone2>
+            <ID>509</ID>
+        </Contact>
+        <Contact>
             <Name>Norrell Corp.</Name>
             <Phone1>923559987</Phone1>
             <Phone2>559952148</Phone2>
@@ -2443,6 +2455,12 @@
             <ID>400</ID>
         </Contact>
         <Contact>
+            <Name>Set and Game SL</Name>
+            <Phone1>957894568</Phone1>
+            <Phone2>558967884</Phone2>
+            <ID>511</ID>
+        </Contact>
+        <Contact>
             <Name>Shaw Industries Inc.</Name>
             <Phone1>932569857</Phone1>
             <Phone2>258623589</Phone2>
@@ -2693,6 +2711,12 @@
             <Phone1>999326012</Phone1>
             <Phone2>540566550</Phone2>
             <ID>442</ID>
+        </Contact>
+        <Contact>
+            <Name>Turpitudo and Co.</Name>
+            <Phone1>965784125</Phone1>
+            <Phone2>884556612</Phone2>
+            <ID>510</ID>
         </Contact>
         <Contact>
             <Name>Tyco International Ltd.</Name>
@@ -3046,12 +3070,12 @@
             <Name>Burguets Corporation</Name>
             <Phone1>987568795</Phone1>
             <Phone2>657222356</Phone2>
-            <ID>508</ID>
+            <ID>512</ID>
         </Contact>
         <Contact>
             <Name>Noch y Valle de Fenar</Name>
             <Phone1>987659874</Phone1>
             <Phone2>695444478</Phone2>
-            <ID>509</ID>
+            <ID>513</ID>
         </Contact>
 </Phonebook>

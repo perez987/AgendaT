@@ -12,7 +12,6 @@ struct ContentView: View {
 	@State private var sortField: SortField = .name
 	@State private var sortAscending: Bool = true
 	@State private var editingEntry: PhoneEntry?
-	@State private var isAddingNew = false
 	@State private var entryToDelete: PhoneEntry?
 	@State private var showingDeleteAlert = false
 
@@ -45,7 +44,6 @@ struct ContentView: View {
 				Spacer()
 				
 				Button(localized("add_contact")) {
-					isAddingNew = true
 					let newId = (allEntries.map { $0.id }.max() ?? 0) + 1
 					editingEntry = PhoneEntry(id: newId, name: "", phone1: "", phone2: "")
 				}
@@ -159,7 +157,6 @@ struct ContentView: View {
 					ForEach(filteredEntries) { entry in
 						Button(action: {
 							editingEntry = entry
-							isAddingNew = false
 						}) {
 							Text(entry.name)
 								.frame(maxWidth: .infinity, alignment: .leading)
@@ -202,7 +199,7 @@ struct ContentView: View {
 		.sheet(item: $editingEntry) { entry in
 			EditContactView(
 				entry: entry,
-				isNew: isAddingNew,
+				isNew: !allEntries.contains(where: { $0.id == entry.id }),
 				onSave: { updatedEntry in
 					saveContact(updatedEntry)
 					editingEntry = nil
@@ -284,12 +281,10 @@ struct ContentView: View {
 	}
 	
 	private func saveContact(_ entry: PhoneEntry) {
-		if isAddingNew {
-			allEntries.append(entry)
+		if let index = allEntries.firstIndex(where: { $0.id == entry.id }) {
+			allEntries[index] = entry
 		} else {
-			if let index = allEntries.firstIndex(where: { $0.id == entry.id }) {
-				allEntries[index] = entry
-			}
+			allEntries.append(entry)
 		}
 		
 		if savePhonebookData(entries: allEntries) {
