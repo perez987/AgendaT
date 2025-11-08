@@ -99,9 +99,7 @@ Implements:
 - `selectedLetter`: Currently selected letter filter
 - `sortField`: Current sorting column (name, phone1, phone2, id)
 - `sortAscending`: Sort direction flag
-- `showingEditSheet`: Controls edit dialog visibility
 - `editingEntry`: Contact being edited
-- `isAddingNew`: Flag to distinguish add vs edit mode
 
 **Filtering and Sorting Logic:**
 
@@ -161,6 +159,7 @@ Implements:
 ### Adding New Languages
 
 To add support for additional languages:
+
 1. Create new `.lproj` directory (e.g., `de.lproj` for German)
 2. Add `Localizable.strings` with translations
 3. Update `supportedLanguages` array in `LocalizationManager`
@@ -217,7 +216,7 @@ XML file is saved in user's documents folder (not bundle):
 - **Edit functionality**: Click contact name to edit, trash icon to delete
 - **Modal editing**: Clean edit dialog with validation and keyboard shortcuts
 - **Auto-generated IDs**: New contacts automatically get unique IDs
-- **Debug logging**: Comprehensive console output with emoji prefixes for easy identification
+- **Debug logging**: Comprehensive console output for easy identification
 
 ### Code Quality
 
@@ -239,7 +238,6 @@ XML file is saved in user's documents folder (not bundle):
 ### Localization Extensions
 
 - Date/number formatting per locale
-- Dynamic language switching without restart
 - Localized contact sorting (locale-aware collation)
 
 ## Development Requirements
