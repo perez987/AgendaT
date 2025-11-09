@@ -194,7 +194,7 @@ struct ContentView: View {
 			.background(Color.gray.opacity(0.1))
 //			.border(Color.secondary, width: 1)
 		}
-		.frame(minWidth: 660, idealWidth: 660, maxWidth: 660, minHeight: 672)
+		.frame(minWidth: 660, idealWidth: 660, maxWidth: 660, minHeight: 600)
 		.onAppear {
 			allEntries = loadPhonebookData()
 			filteredEntries = sortEntries(allEntries)
@@ -235,23 +235,13 @@ struct ContentView: View {
 	}
 
 	private func applyFilters() {
-		var results = allEntries
-
-			// Apply letter filter
-		if let letter = selectedLetter {
-			results = results.filter { entry in
-				entry.name.uppercased().hasPrefix(letter)
-			}
-		}
-
-			// Apply name search filter
-		if !searchText.isEmpty {
-			results = results.filter { entry in
-				entry.name.localizedCaseInsensitiveContains(searchText)
-			}
-		}
-
-		filteredEntries = sortEntries(results)
+		filteredEntries = FilterSortManager.applyFilters(
+			to: allEntries,
+			selectedLetter: selectedLetter,
+			searchText: searchText,
+			sortField: sortField,
+			sortAscending: sortAscending
+		)
 	}
 	
 	private func toggleSort(_ field: SortField) {
@@ -261,53 +251,28 @@ struct ContentView: View {
 			sortField = field
 			sortAscending = true
 		}
-		filteredEntries = sortEntries(filteredEntries)
+		filteredEntries = FilterSortManager.sortEntries(filteredEntries, by: sortField, ascending: sortAscending)
 	}
 	
 	private func sortEntries(_ entries: [PhoneEntry]) -> [PhoneEntry] {
-		return entries.sorted { entry1, entry2 in
-			let comparison: ComparisonResult
-			switch sortField {
-			case .name:
-				comparison = entry1.name.localizedCaseInsensitiveCompare(entry2.name)
-			case .phone1:
-				comparison = entry1.phone1.compare(entry2.phone1)
-			case .phone2:
-				comparison = entry1.phone2.compare(entry2.phone2)
-			case .id:
-				comparison = entry1.id < entry2.id ? .orderedAscending : (entry1.id > entry2.id ? .orderedDescending : .orderedSame)
-			}
-			return sortAscending ? comparison == .orderedAscending : comparison == .orderedDescending
-		}
+		return FilterSortManager.sortEntries(entries, by: sortField, ascending: sortAscending)
 	}
 
 		// Remove all filters
 	private func clearFilters() {
 		searchText = ""
 		selectedLetter = nil
-		filteredEntries = sortEntries(allEntries)
+		filteredEntries = FilterSortManager.sortEntries(allEntries, by: sortField, ascending: sortAscending)
 	}
 	
 	private func saveContact(_ entry: PhoneEntry) {
-		// Find if this entry already exists in our list
-		let existingIndex = allEntries.firstIndex(where: { $0.id == entry.id })
-		
-		if existingIndex == nil {
-			// New contact
-			allEntries.append(entry)
-		} else {
-			// Updating existing contact
-			allEntries[existingIndex!] = entry
-		}
-		
-		if savePhonebookData(entries: allEntries) {
+		if PhonebookManager.saveContact(entry, in: &allEntries) {
 			applyFilters()
 		}
 	}
 	
 	private func deleteEntry(_ entry: PhoneEntry) {
-		allEntries.removeAll { $0.id == entry.id }
-		if savePhonebookData(entries: allEntries) {
+		if PhonebookManager.deleteEntry(entry, from: &allEntries) {
 			applyFilters()
 		}
 	}
