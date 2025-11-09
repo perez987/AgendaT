@@ -52,11 +52,28 @@ You can bring your data by copying this file to a different machine and running 
 
 ## Project Structure
 
-- `AgendaTApp.swift` - Main application entry point
-- `ContentView.swift` - Main UI view with grid, search, and filter controls
-- `PhoneEntry.swift` - Data model for phone entries
-- `XMLParser.swift` - XML parsing functionality
-- `phonebook.xml` - Sample XML data file with phone entries
+```
+AgendaT/
+├── AgendaTApp.swift              # Main application entry point
+├── AppDelegate.swift             # Application delegate
+├── AgendaT.entitlements          # App entitlements and capabilities
+├── Assets.xcassets/              # App icons and visual assets
+│   ├── AccentColor.colorset/
+│   └── AppIcon.appiconset/
+├── Models/
+│   ├── FilterSortManager.swift   # Filtering and sorting logic
+│   ├── LocalizationManager.swift # Language detection and localization
+│   ├── PhoneEntry.swift          # Data model for phone entries
+│   ├── PhonebookManager.swift    # Phonebook data management
+│   └── XMLParser.swift           # XML parsing functionality
+├── Resources/
+│   ├── Phonebook.xml             # Sample XML data file with phone entries
+│   ├── en.lproj/                 # English localization
+│   ├── es.lproj/                 # Spanish localization
+│   └── fr.lproj/                 # French localization
+└── Views/
+    └── ContentView.swift         # Main UI view with grid, search, and filters
+```
 
 ## Requirements
 

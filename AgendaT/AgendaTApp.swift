@@ -5,15 +5,16 @@ struct AgendaTApp: App {
 	@NSApplicationDelegateAdaptor(AppDelegate.self) var appDelegate
 
     var body: some Scene {
-        WindowGroup {
+			//Single instance app
+        Window("AgendaT", id: "main") {
             ContentView()
         }
 
-			// set width of 580 pixels to the main window
+			// Set width of 580 pixels to the main window
 			// macOS 13 Ventura or newer
 //		.defaultSize(width: 580, height: 600)
 
-			// window resizability derived from the window’s content
+			// Window resizability derived from the window’s content
 			// macOS 13 Ventura or newer
 		.windowResizability(.contentSize)
 

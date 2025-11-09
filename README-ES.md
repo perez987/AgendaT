@@ -45,11 +45,28 @@ Puedes transferir tus datos copiando este archivo a otro equipo y ejecutando la 
 
 ## Estructura del proyecto
 
-- `AgendaTApp.swift` - Punto de entrada principal de la aplicación
-- `ContentView.swift` - Vista principal de la interfaz de usuario
-- `PhoneEntry.swift` - Modelo de datos para las entradas de teléfono
-- `XMLParser.swift` - Funcionalidad de análisis XML
-- `phonebook.xml` - Archivo de datos XML de ejemplo con entradas de teléfono
+```
+AgendaT/
+├── AgendaTApp.swift              # Punto de entrada principal de la aplicación
+├── AppDelegate.swift             # Delegado de la aplicación
+├── AgendaT.entitlements          # Permisos y capacidades de la app
+├── Assets.xcassets/              # Iconos y recursos visuales de la app
+│   ├── AccentColor.colorset/
+│   └── AppIcon.appiconset/
+├── Models/
+│   ├── FilterSortManager.swift   # Lógica de filtrado y ordenación
+│   ├── LocalizationManager.swift # Detección de idioma y traducción
+│   ├── PhoneEntry.swift          # Modelo de datos para las entradas de teléfono
+│   ├── PhonebookManager.swift    # Gestión de datos de la agenda
+│   └── XMLParser.swift           # Funcionalidad de análisis XML
+├── Resources/
+│   ├── Phonebook.xml             # Archivo de datos XML de ejemplo con entradas de teléfono
+│   ├── en.lproj/                 # Traducción al inglés
+│   ├── es.lproj/                 # Traducción al español
+│   └── fr.lproj/                 # Traducción al francés
+└── Views/
+    └── ContentView.swift         # Vista principal de la interfaz de usuario
+```
 
 ## Requisitos
 

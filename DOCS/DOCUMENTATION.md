@@ -12,18 +12,28 @@
 
 ```
 AgendaT/
-├── AgendaTApp.swift           # Application entry point
-├── Views/
-│   └── ContentView.swift      # Main UI with grid, search, and filters
+├── AgendaTApp.swift              # Main application entry point
+├── AppDelegate.swift             # Application delegate
+├── AgendaT.entitlements          # App entitlements and capabilities
+├── Assets.xcassets/              # App icons and visual assets
+│   ├── AccentColor.colorset/
+│   └── AppIcon.appiconset/
 ├── Models/
-│   ├── PhoneEntry.swift       # Data model for phone entries
-│   ├── XMLParser.swift        # XML parsing logic
-│   └── LocalizationManager.swift  # Language detection and localization
-└── Resources/
-    ├── phonebook.xml          # Contact data storage
-    ├── en.lproj/              # English localization
-    ├── es.lproj/              # Spanish localization
-    └── fr.lproj/              # French localization
+│   ├── FilterSortManager.swift   # Filtering and sorting logic
+│   ├── LocalizationManager.swift # Language detection and localization
+│   ├── PhoneEntry.swift          # Data model for phone entries
+│   ├── PhonebookManager.swift    # Phonebook data management
+│   └── XMLParser.swift           # XML parsing functionality
+├── Resources/
+│   ├── Phonebook.xml             # Contact data storage
+│   ├── en.lproj/                 # English localization
+│   │   └── Localizable.strings
+│   ├── es.lproj/                 # Spanish localization
+│   │   └── Localizable.strings
+│   └── fr.lproj/                 # French localization
+│       └── Localizable.strings
+└── Views/
+    └── ContentView.swift         # Main UI with grid, search, and filters
 ```
 
 ## Key Components

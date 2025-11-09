@@ -14,19 +14,30 @@ Más que una aplicación para uso real (aunque funciona bien), debería consider
 
 ### Estructura del proyecto
 
-``` AgendaT/
-├── AgendaTApp.swift: Punto de entrada de la aplicación
-├── Views/
-│ └── ContentView.swift: Interfaz de usuario principal
+```
+AgendaT/
+├── AgendaTApp.swift              # Punto de entrada de la aplicación
+├── AppDelegate.swift             # Delegado de la aplicación
+├── AgendaT.entitlements          # Permisos y capacidades de la app
+├── Assets.xcassets/              # Iconos y recursos visuales de la app
+│   ├── AccentColor.colorset/
+│   └── AppIcon.appiconset/
 ├── Models/
-│ ├── PhoneEntry.swift: Modelo de datos para registros de teléfono
-│ ├── XMLParser.swift: Lógica de análisis XML
-│ └── LocalizationManager.swift: Detección de idioma y traducción
-└── Resources/
-├── phonebook.xml # Almacenamiento de datos de los contactos
-├── en.lproj/ # Idioma inglés
-├── es.lproj/ # Idioma español
-└── fr.lproj/ # Idioma francés
+│   ├── FilterSortManager.swift   # Lógica de filtrado y ordenación
+│   ├── LocalizationManager.swift # Detección de idioma y traducción
+│   ├── PhoneEntry.swift          # Modelo de datos para registros de teléfono
+│   ├── PhonebookManager.swift    # Gestión de datos de la agenda
+│   └── XMLParser.swift           # Lógica de análisis XML
+├── Resources/
+│   ├── Phonebook.xml             # Almacenamiento de datos de los contactos
+│   ├── en.lproj/                 # Idioma inglés
+│   │   └── Localizable.strings
+│   ├── es.lproj/                 # Idioma español
+│   │   └── Localizable.strings
+│   └── fr.lproj/                 # Idioma francés
+│       └── Localizable.strings
+└── Views/
+    └── ContentView.swift         # Interfaz de usuario principal
 ```
 
 ## Componentes clave
