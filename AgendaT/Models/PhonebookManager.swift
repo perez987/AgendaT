@@ -6,7 +6,7 @@ class PhonebookManager {
 	/// - Parameters:
 	///   - entry: The phone entry to save
 	///   - allEntries: The current array of all entries
-	/// - Returns: Updated array of all entries
+	/// - Returns: true if the contact was successfully saved, false otherwise
 	static func saveContact(_ entry: PhoneEntry, in allEntries: inout [PhoneEntry]) -> Bool {
 		// Find if this entry already exists in our list
 		let existingIndex = allEntries.firstIndex(where: { $0.id == entry.id })
