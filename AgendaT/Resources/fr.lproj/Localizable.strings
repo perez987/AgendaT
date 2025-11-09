@@ -33,3 +33,11 @@
 "id_label" = "ID :";
 "add" = "Ajouter";
 "save" = "Enregistrer";
+
+/* Validation */
+"validation_error_title" = "Erreur de validation";
+"invalid_phone_error" = "Le numéro de téléphone ne doit contenir que des chiffres et avoir entre 4 et 10 caractères.";
+"phone1_required_error" = "Le téléphone 1 est obligatoire. Veuillez saisir un numéro de téléphone.";
+"duplicate_id_title" = "ID en double";
+"duplicate_id_message" = "Un contact avec l'ID %d existe déjà. Impossible d'enregistrer un ID en double.";
+"ok" = "OK";

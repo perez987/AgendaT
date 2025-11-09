@@ -14,6 +14,8 @@ struct ContentView: View {
 	@State private var editingEntry: PhoneEntry?
 	@State private var entryToDelete: PhoneEntry?
 	@State private var showingDeleteAlert = false
+	@State private var showingDuplicateIdAlert = false
+	@State private var duplicateIdMessage = ""
 
 		// 26 buttons including K and W (less common starting letters)
 	let alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".map { String($0) }
@@ -92,10 +94,11 @@ struct ContentView: View {
 				// Lazy grid only creates views when they’re about to appear on screen
 			ScrollView {
 				LazyVGrid(columns: [
-					GridItem(.flexible(minimum: 264)),
-					GridItem(.fixed(100)),
-					GridItem(.fixed(100)),
-					GridItem(.fixed(40))
+//					GridItem(.flexible(minimum: 264)),
+					GridItem(.fixed(264)),
+					GridItem(.fixed(120)),
+					GridItem(.fixed(120)),
+					GridItem(.fixed(68))
 				], alignment: .leading, spacing: 10) {
 						// Header (clickable for sorting)
 					Group {
@@ -164,9 +167,9 @@ struct ContentView: View {
 						.buttonStyle(.plain)
 						.foregroundColor(.primary)
 						
-						Text(entry.phone1)
+						Text(PhoneEntry.formatPhoneNumber(entry.phone1))
 							.frame(maxWidth: .infinity, alignment: .leading)
-						Text(entry.phone2)
+						Text(PhoneEntry.formatPhoneNumber(entry.phone2))
 							.frame(maxWidth: .infinity, alignment: .leading)
 						HStack(spacing: 4) {
 							Text("\(entry.id)")
@@ -191,7 +194,7 @@ struct ContentView: View {
 			.background(Color.gray.opacity(0.1))
 //			.border(Color.secondary, width: 1)
 		}
-		.frame(minWidth: 600, idealWidth: 600, maxWidth: 600, minHeight: 600)
+		.frame(minWidth: 660, idealWidth: 660, maxWidth: 660, minHeight: 672)
 		.onAppear {
 			allEntries = loadPhonebookData()
 			filteredEntries = sortEntries(allEntries)
@@ -223,6 +226,11 @@ struct ContentView: View {
 			if let entry = entryToDelete {
 				Text(String(format: localized("delete_confirmation_message"), entry.name))
 			}
+		}
+		.alert(localized("duplicate_id_title"), isPresented: $showingDuplicateIdAlert) {
+			Button(localized("ok"), role: .cancel) {}
+		} message: {
+			Text(duplicateIdMessage)
 		}
 	}
 
@@ -281,10 +289,15 @@ struct ContentView: View {
 	}
 	
 	private func saveContact(_ entry: PhoneEntry) {
-		if let index = allEntries.firstIndex(where: { $0.id == entry.id }) {
-			allEntries[index] = entry
-		} else {
+		// Find if this entry already exists in our list
+		let existingIndex = allEntries.firstIndex(where: { $0.id == entry.id })
+		
+		if existingIndex == nil {
+			// New contact
 			allEntries.append(entry)
+		} else {
+			// Updating existing contact
+			allEntries[existingIndex!] = entry
 		}
 		
 		if savePhonebookData(entries: allEntries) {
@@ -312,6 +325,8 @@ struct EditContactView: View {
 	let isNew: Bool
 	let onSave: (PhoneEntry) -> Void
 	let onCancel: () -> Void
+	@State private var showValidationError = false
+	@State private var validationErrorMessage = ""
 	
 	init(entry: PhoneEntry, isNew: Bool, onSave: @escaping (PhoneEntry) -> Void, onCancel: @escaping () -> Void) {
 		_name = State(initialValue: entry.name)
@@ -380,6 +395,24 @@ struct EditContactView: View {
 				.keyboardShortcut(.cancelAction)
 				
 				Button(isNew ? localized("add") : localized("save")) {
+						// Phone1 is required
+					if phone1.isEmpty {
+						validationErrorMessage = localized("phone1_required_error")
+						showValidationError = true
+						return
+					}
+
+						// Validate phone numbers
+					if !PhoneEntry.validatePhoneNumber(phone1) {
+						validationErrorMessage = localized("invalid_phone_error")
+						showValidationError = true
+						return
+					}
+
+					if !phone2.isEmpty && !PhoneEntry.validatePhoneNumber(phone2) {
+						validationErrorMessage = localized("invalid_phone_error")
+					}
+					
 					let entry = PhoneEntry(id: id, name: name, phone1: phone1, phone2: phone2)
 					onSave(entry)
 				}
@@ -390,5 +423,10 @@ struct EditContactView: View {
 			.padding(.bottom)
 		}
 		.frame(width: 400, height: 300)
+		.alert(localized("validation_error_title"), isPresented: $showValidationError) {
+			Button(localized("ok"), role: .cancel) {}
+		} message: {
+			Text(validationErrorMessage)
+		}
 	}
 }

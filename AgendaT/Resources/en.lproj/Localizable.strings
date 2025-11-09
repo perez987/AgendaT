@@ -33,3 +33,11 @@
 "id_label" = "ID:";
 "add" = "Add";
 "save" = "Save";
+
+/* Validation */
+"validation_error_title" = "Validation Error";
+"invalid_phone_error" = "Phone number must contain only digits and be between 4 and 10 characters long.";
+"phone1_required_error" = "Phone 1 is required. Please enter a phone number.";
+"duplicate_id_title" = "Duplicate ID";
+"duplicate_id_message" = "A contact with ID %d already exists. Cannot save duplicate ID.";
+"ok" = "OK";
