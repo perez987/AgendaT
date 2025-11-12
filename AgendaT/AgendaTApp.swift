@@ -10,9 +10,9 @@ struct AgendaTApp: App {
             ContentView()
         }
 
-			// Set width of 580 pixels to the main window
+			// Set width of 660 pixels to the main window
 			// macOS 13 Ventura or newer
-//		.defaultSize(width: 580, height: 600)
+//		.defaultSize(width: 660, height: 600)
 
 			// Window resizability derived from the window’s content
 			// macOS 13 Ventura or newer

@@ -9,7 +9,7 @@ Más que una aplicación para uso real (aunque funciona bien), debería consider
 ### Tecnologías principales
 
 - **SwiftUI**: Framework de interfaz de usuario
-- **Análisis XML**: Analizador XML nativo para el manejo de datos (framework Foundation que provee funcionalidades como almacenamiento de datos, procesado de textos, fehca y hora, etc.)
+- **Análisis XML**: Analizador XML nativo para el manejo de datos (framework Foundation que provee funcionalidades como almacenamiento de datos, procesado de textos, fecha y hora, etc.)
 - **Compatibilidad con varios idiomas**: Sistema de traducciones integrado con detección automática de idioma.
 
 ### Estructura del proyecto
@@ -94,7 +94,7 @@ Implementa:
 **Características principales:**
 
 - **Visualización en cuadrícula ordenable**: LazyVGrid con 4 encabezados de columna interactivos (Nombre, Teléfono 1, Teléfono 2, ID)
-- **Ordenación por columna**: Haga clic en cualquier encabezado de columna para ordenar por ese campo (ascendente/descendente)
+- **Ordenación por columna**: Haz clic en cualquier encabezado de columna para ordenar por ese campo (ascendente/descendente)
 - **Indicadores de ordenación**: Iconos visuales en forma de V que muestran el campo de ordenación actual y la dirección
 - **Búsqueda de texto**: Campo de texto para búsqueda parcial por nombre
 - **Filtro alfabético**: 26 botones de letras (A-Z) para filtrar por primera letra
@@ -122,7 +122,7 @@ Implementa:
 - Búsqueda de texto: Coincidencia de subcadena sin distinción entre mayúsculas y minúsculas (`localizedCaseInsensitiveContains`)
 - Los filtros se combinan (lógica AND) cuando ambos están activos
 - La ordenación se aplica después del Filtrado
-- Alternar orden: Haga clic en el encabezado de la misma columna para invertir el orden
+- Alternar orden: Haz clic en el encabezado de la misma columna para invertir el orden
 - El botón Borrar restablece los filtros, pero mantiene la preferencia de orden.
 
 **Diálogo de edición (EditContactView):**
@@ -175,9 +175,9 @@ Implementa:
 
 Para agregar compatibilidad con idiomas adicionales:
 
-1. Cree un nuevo directorio `.lproj` (por ejemplo, `de.lproj` para alemán)
-2. Agregue el archivo `Localizable.strings` con las traducciones
-3. Actualice la matriz `supportedLanguages` en `LocalizationManager`
+1. Crea un nuevo directorio `.lproj` (por ejemplo, `de.lproj` para alemán)
+2. Agrega el archivo `Localizable.strings` con las traducciones
+3. Actualiza la matriz `supportedLanguages` en `LocalizationManager`
 4. No se requieren cambios en el código de las vistas.
 
 ## Formato de datos
