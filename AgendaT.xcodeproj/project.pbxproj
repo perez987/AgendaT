@@ -116,6 +116,7 @@
 				Base,
 				es,
 				fr,
+				de,
 			);
 			mainGroup = A1000016000000000000001;
 			productRefGroup = A1000018000000000000001 /* Products */;

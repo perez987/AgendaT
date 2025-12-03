@@ -1,0 +1,43 @@
+/* German Localization (Natural) */
+
+/* Main title */
+"phone_numbers" = "Telefonnummern";
+
+/* Search and filter controls */
+"search_by_name" = "Nach Name suchen";
+"show_button" = "Suchen";
+"clear_filters_button" = "Alle anzeigen";
+"add_contact" = "Kontakt hinzufügen";
+
+/* Record counter */
+"records_shown" = "Angezeigte Kontakte: %d";
+
+/* Grid headers */
+"header_name" = "Name";
+"header_phone1" = "Telefon 1";
+"header_phone2" = "Telefon 2";
+"header_id" = "ID";
+
+/* Delete confirmation */
+"delete_confirmation_title" = "Kontakt löschen";
+"delete_confirmation_message" = "Möchten Sie den Kontakt '%@' wirklich löschen?";
+"delete" = "Löschen";
+"cancel" = "Abbrechen";
+
+/* Edit Contact View */
+"add_contact_title" = "Neuen Kontakt hinzufügen";
+"edit_contact_title" = "Kontakt bearbeiten";
+"name_label" = "Name:";
+"phone1_label" = "Telefon 1:";
+"phone2_label" = "Telefon 2:";
+"id_label" = "ID:";
+"add" = "Hinzufügen";
+"save" = "Speichern";
+
+/* Validation */
+"validation_error_title" = "Fehler bei der Eingabe";
+"invalid_phone_error" = "Die Telefonnummer darf nur Ziffern enthalten und muss 4 bis 10 Stellen lang sein.";
+"phone1_required_error" = "Bitte geben Sie mindestens eine Telefonnummer ein.";
+"duplicate_id_title" = "ID bereits vergeben";
+"duplicate_id_message" = "Ein Kontakt mit der ID %d existiert bereits. Doppelte IDs sind nicht erlaubt.";
+"ok" = "OK";
