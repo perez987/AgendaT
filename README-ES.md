@@ -77,4 +77,4 @@ AgendaT/
 ## Compilación
 
 Abre `AgendaT.xcodeproj` en Xcode y compila el proyecto.
-1. 
+
