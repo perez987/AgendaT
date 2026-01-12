@@ -103,7 +103,6 @@ Implementa:
 - **Añadir contacto**: Botón para crear nuevos contactos
 - **Editar contacto**: Hacer clic en el nombre del contacto para editarlo
 - **Eliminar contacto**: Icono de papelera junto al ID de cada contacto (muestra diálogo de confirmación)
-- **Diseño adaptable**: Tamaño mínimo de ventana 600x600 píxeles.
 
 **Gestión del estado:**
 
@@ -227,18 +226,10 @@ El archivo XML se guarda en la carpeta de documentos del usuario (no en la app):
 - **Retroalimentación instantánea**: El botón de filtro proporciona control sobre la ejecución de la búsqueda
 - **Indicadores visuales**: La letra seleccionada se resalta con color
 - **Borrar**: Un solo botón restablece todos los filtros a su estado inicial
-- **Cuadrícula adaptable**: Columna de nombre flexible, ancho fijo para teléfonos e ID
 - **Funcionalidad de edición**: Clic en el nombre del contacto para editarlo, icono de papelera para eliminarlo
 - **Edición modal**: Diálogo de edición con atajos de teclado
 - **ID generados automáticamente**: Los nuevos contactos obtienen automáticamente ID únicos
 - **Registro de depuración**: Salida de consola para una fácil identificación.
-
-### Calidad del código
-
-- **Separación de responsabilidades**: Modelos, vistas y lógica de análisis separados
-- **Buenas prácticas de SwiftUI**: Interfaz de usuario basada en el estado, sintaxis declarativa
-- **Manejo de errores**: Degradación controlada (array vacío en caso de fallo de carga XML)
-- **Uso eficiente de la memoria**: Estructuras para tipos de valor, retención mínima de objetos.
 
 ## Oportunidades de mejora
 
@@ -269,17 +260,7 @@ El archivo XML se guarda en la carpeta de documentos del usuario (no en la app):
 2. Selecciona dispositivo/arquitectura de destino
 3. Compila y ejecuta (⌘R).
 
-## Guía de estilo de código
-
-### Convenciones de Swift
-
-- CamelCase para propiedades y funciones (primera palabra empieza con minúscula, el resto con mayúscula, ej: `sortedEntries`)
-- PascalCase para tipos (todas las palabras empiezan por mayúscula, ej: `LocalizationManager`)
-- Nombres descriptivos en lugar de breves
-- Comentarios para lógica no evidente
-- Agrupar la funcionalidad relacionada con comentarios `// MARK:` (cuando corresponda).
-
-### Patrones de SwiftUI
+## Patrones de SwiftUI
 
 - Extraer las vistas complejas a componentes separados cuando sea necesario
 - Usar `@State` para el estado local y `@StateObject` para objetos observables

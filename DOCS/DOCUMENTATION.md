@@ -98,7 +98,6 @@ Implements:
 - **Add Contact**: Button to create new contacts
 - **Edit Contact**: Click on contact name to edit
 - **Delete Contact**: Trash icon next to each contact's ID
-- **Responsive Layout**: Minimum window size 600x600 pixels
 
 **State Management:**
 
@@ -219,21 +218,12 @@ XML file is saved in user's documents folder (not bundle):
 - **Multi-column sorting**: Click any column header to sort; click again to reverse
 - **Visual sort indicators**: Chevron icons show active sort column and direction
 - **Alphabetical order**: Contacts can be sorted by name, phone numbers, or ID
-- **Instant feedback**: Filter button provides explicit control over search execution
 - **Visual indicators**: Selected letter highlighted with accent color
 - **Clear action**: Single button resets all filters to initial state
-- **Responsive grid**: Flexible name column, fixed-width for phones and ID
 - **Edit functionality**: Click contact name to edit, trash icon to delete
 - **Modal editing**: Clean edit dialog with validation and keyboard shortcuts
 - **Auto-generated IDs**: New contacts automatically get unique IDs
 - **Debug logging**: Comprehensive console output for easy identification
-
-### Code Quality
-
-- **Separation of concerns**: Models, Views, and parsing logic separated
-- **SwiftUI best practices**: State-driven UI, declarative syntax
-- **Error handling**: Graceful degradation (empty array on XML load failure)
-- **Memory efficient**: Structs for value types, minimal object retention
 
 ## Future Enhancement Opportunities
 
@@ -264,43 +254,12 @@ XML file is saved in user's documents folder (not bundle):
 2. Select target device/architecture
 3. Build and run (⌘R)
 
-## Code Style Guidelines
-
-### Swift Conventions
-
-- Camel case for properties and functions
-- Pascal case for types
-- Descriptive names over brevity
-- Comments for non-obvious logic
-- Group related functionality with `// MARK:` comments (when applicable)
-
-### SwiftUI Patterns
+## SwiftUI Patterns
 
 - Extract complex views into separate components when needed
 - Use `@State` for local state, `@StateObject` for observable objects
 - Prefer modifiers over conditional rendering
 - Keep view bodies focused and readable
-
-## Maintenance Notes
-
-### XML Data Updates
-
-- Edit `phonebook.xml` directly in Xcode
-- Ensure valid XML structure
-- ID values must be integers
-- Recompile to include updated data
-
-### Localization Updates
-
-- Edit `.strings` files in respective `.lproj` folders
-- Maintain consistent keys across all languages
-- Use format specifiers correctly (`%d` for integers, `%@` for strings)
-
-### Version Control
-
-- Track all source files including `.strings` and `.xml`
-- Localization files are plain text (diff-friendly)
-- Test on clean builds to verify resource inclusion
 
 ## Known Limitations
 
