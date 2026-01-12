@@ -3,13 +3,21 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 70;
+	objectVersion = 56;
 	objects = {
 
 /* Begin PBXBuildFile section */
 		A1000001000000000000001 /* AgendaTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1000002000000000000001 /* AgendaTApp.swift */; };
 		A1000009000000000000001 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1000010000000000000001 /* Assets.xcassets */; };
 		D921BDA62EC123EC00D5E2CF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D921BDA52EC123EC00D5E2CF /* AppDelegate.swift */; };
+		D9E307C02F151CFA009815F1 /* FilterSortManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307BB2F151CFA009815F1 /* FilterSortManager.swift */; };
+		D9E307C12F151CFA009815F1 /* LocalizationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307BC2F151CFA009815F1 /* LocalizationManager.swift */; };
+		D9E307C22F151CFA009815F1 /* PhonebookManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307BD2F151CFA009815F1 /* PhonebookManager.swift */; };
+		D9E307C32F151CFA009815F1 /* PhoneEntry.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307BE2F151CFA009815F1 /* PhoneEntry.swift */; };
+		D9E307C42F151CFA009815F1 /* XMLParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307BF2F151CFA009815F1 /* XMLParser.swift */; };
+		D9E307CB2F151CFA009815F1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = D9E307C52F151CFA009815F1 /* Localizable.strings */; };
+		D9E307CC2F151CFA009815F1 /* Phonebook.xml in Resources */ = {isa = PBXBuildFile; fileRef = D9E307C62F151CFA009815F1 /* Phonebook.xml */; };
+		D9E307CE2F151CFA009815F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9E307CD2F151CFA009815F1 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,13 +26,18 @@
 		A1000013000000000000001 /* AgendaT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AgendaT.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1000014000000000000001 /* AgendaT.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = AgendaT.entitlements; sourceTree = "<group>"; };
 		D921BDA52EC123EC00D5E2CF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		D9E307BB2F151CFA009815F1 /* FilterSortManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilterSortManager.swift; sourceTree = "<group>"; };
+		D9E307BC2F151CFA009815F1 /* LocalizationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocalizationManager.swift; sourceTree = "<group>"; };
+		D9E307BD2F151CFA009815F1 /* PhonebookManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhonebookManager.swift; sourceTree = "<group>"; };
+		D9E307BE2F151CFA009815F1 /* PhoneEntry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneEntry.swift; sourceTree = "<group>"; };
+		D9E307BF2F151CFA009815F1 /* XMLParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLParser.swift; sourceTree = "<group>"; };
+		D9E307C62F151CFA009815F1 /* Phonebook.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Phonebook.xml; sourceTree = "<group>"; };
+		D9E307C72F151CFA009815F1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D9E307C82F151CFA009815F1 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D9E307C92F151CFA009815F1 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D9E307CA2F151CFA009815F1 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		D9E307CD2F151CFA009815F1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		D91DC6C62EBA410D00F39E48 /* Resources */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Resources; sourceTree = "<group>"; };
-		D91DC6C72EBA412C00F39E48 /* Views */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Views; sourceTree = "<group>"; };
-		D91DC6C82EBA413F00F39E48 /* Models */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Models; sourceTree = "<group>"; };
-/* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
 		A1000015000000000000001 /* Frameworks */ = {
@@ -52,9 +65,9 @@
 				A1000002000000000000001 /* AgendaTApp.swift */,
 				D921BDA52EC123EC00D5E2CF /* AppDelegate.swift */,
 				A1000010000000000000001 /* Assets.xcassets */,
-				D91DC6C82EBA413F00F39E48 /* Models */,
-				D91DC6C62EBA410D00F39E48 /* Resources */,
-				D91DC6C72EBA412C00F39E48 /* Views */,
+				D9E307CF2F151D03009815F1 /* Model */,
+				D9E307D12F151D15009815F1 /* Resources */,
+				D9E307D02F151D0E009815F1 /* Views */,
 			);
 			path = AgendaT;
 			sourceTree = "<group>";
@@ -65,6 +78,35 @@
 				A1000013000000000000001 /* AgendaT.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		D9E307CF2F151D03009815F1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D9E307BB2F151CFA009815F1 /* FilterSortManager.swift */,
+				D9E307BC2F151CFA009815F1 /* LocalizationManager.swift */,
+				D9E307BD2F151CFA009815F1 /* PhonebookManager.swift */,
+				D9E307BE2F151CFA009815F1 /* PhoneEntry.swift */,
+				D9E307BF2F151CFA009815F1 /* XMLParser.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		D9E307D02F151D0E009815F1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D9E307CD2F151CFA009815F1 /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D9E307D12F151D15009815F1 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				D9E307C52F151CFA009815F1 /* Localizable.strings */,
+				D9E307C62F151CFA009815F1 /* Phonebook.xml */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -81,11 +123,6 @@
 			buildRules = (
 			);
 			dependencies = (
-			);
-			fileSystemSynchronizedGroups = (
-				D91DC6C62EBA410D00F39E48 /* Resources */,
-				D91DC6C72EBA412C00F39E48 /* Views */,
-				D91DC6C82EBA413F00F39E48 /* Models */,
 			);
 			name = AgendaT;
 			productName = AgendaT;
@@ -133,6 +170,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D9E307CB2F151CFA009815F1 /* Localizable.strings in Resources */,
+				D9E307CC2F151CFA009815F1 /* Phonebook.xml in Resources */,
 				A1000009000000000000001 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -146,10 +185,30 @@
 			files = (
 				D921BDA62EC123EC00D5E2CF /* AppDelegate.swift in Sources */,
 				A1000001000000000000001 /* AgendaTApp.swift in Sources */,
+				D9E307CE2F151CFA009815F1 /* ContentView.swift in Sources */,
+				D9E307C02F151CFA009815F1 /* FilterSortManager.swift in Sources */,
+				D9E307C12F151CFA009815F1 /* LocalizationManager.swift in Sources */,
+				D9E307C22F151CFA009815F1 /* PhonebookManager.swift in Sources */,
+				D9E307C32F151CFA009815F1 /* PhoneEntry.swift in Sources */,
+				D9E307C42F151CFA009815F1 /* XMLParser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D9E307C52F151CFA009815F1 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D9E307C72F151CFA009815F1 /* en */,
+				D9E307C82F151CFA009815F1 /* de */,
+				D9E307C92F151CFA009815F1 /* es */,
+				D9E307CA2F151CFA009815F1 /* fr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		A1000025000000000000001 /* Debug */ = {
@@ -270,6 +329,7 @@
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_COMPILATION_MODE = wholemodule;
