@@ -4,7 +4,9 @@
 ![Swift](https://img.shields.io/badge/Swift-5-color=9494ff.svg)
 ![Xcode](https://img.shields.io/badge/Xcode-15.2+-lavender.svg)
 
-[README en inglés](README.md)
+<a href="README.md">
+    <img src="https://img.shields.io/badge/English-README-blue" alt=“English README”>
+</a><br><br>
 
 AgendaT es una aplicación sencilla de agenda telefónica, desarrollada con SwiftUI y diseñada para macOS 13 (Ventura) y versiones posteriores. La aplicación permite explorar, buscar y editar fácilmente los contactos de teléfono almacenados en un archivo XML.
 

@@ -4,8 +4,9 @@
 ![Swift](https://img.shields.io/badge/Swift-5-color=9494ff.svg)
 ![Xcode](https://img.shields.io/badge/Xcode-15.2+-lavender.svg)
 
-[README in Spanish](README-ES.md)
-
+<a href="README-ES.md">
+    <img src="https://img.shields.io/badge/Spanish-README-blue" alt=“Spanish README”>
+</a><br><br>
 
 AgendaT is a lightweight phonebook application built with SwiftUI, designed for macOS 13 (Ventura) and later. The application provides a simple way to browse, search and edit phone contacts stored in an XML file.
 
