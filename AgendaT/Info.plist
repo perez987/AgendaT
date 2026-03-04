@@ -24,9 +24,5 @@
 	<string>Copyright © 2025 Perez987</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
-	<key>SUFeedURL</key>
-	<string>https://raw.githubusercontent.com/perez987/AgendaT/main/appcast.xml</string>
-	<key>SUPublicEDKey</key>
-	<string>ZlKWZcBX5/V65EwhgJe0G+veSzYUiYrpJZL9dLE8vjw=</string>
 </dict>
 </plist>
