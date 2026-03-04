@@ -61,6 +61,7 @@ AgendaT/
 ├── Assets.xcassets/              # App icons and visual assets
 │   ├── AccentColor.colorset/
 │   └── AppIcon.appiconset/
+├── Info.plist
 ├── Models/
 │   ├── FilterSortManager.swift   # Filtering and sorting logic
 │   ├── LocalizationManager.swift # Language detection and localization
