@@ -68,6 +68,7 @@
 				D921BDA52EC123EC00D5E2CF /* AppDelegate.swift */,
 				A1000010000000000000001 /* Assets.xcassets */,
 				D925579D2F58D1A400D3A2DA /* Info.plist */,
+				D90690002F5A077700CDF6B7 /* Languages */,
 				D9E307CF2F151D03009815F1 /* Model */,
 				D9E307D12F151D15009815F1 /* Resources */,
 				D9E307D02F151D0E009815F1 /* Views */,
@@ -81,6 +82,14 @@
 				A1000013000000000000001 /* AgendaT.app */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		D90690002F5A077700CDF6B7 /* Languages */ = {
+			isa = PBXGroup;
+			children = (
+				D9E307C52F151CFA009815F1 /* Localizable.strings */,
+			);
+			path = Languages;
 			sourceTree = "<group>";
 		};
 		D9E307CF2F151D03009815F1 /* Model */ = {
@@ -106,7 +115,6 @@
 		D9E307D12F151D15009815F1 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D9E307C52F151CFA009815F1 /* Localizable.strings */,
 				D9E307C62F151CFA009815F1 /* Phonebook.xml */,
 			);
 			path = Resources;
